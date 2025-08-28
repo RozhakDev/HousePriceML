@@ -1,0 +1,13 @@
+Flask
+
+joblib
+scikit-learn
+numpy
+pandas
+
+python-dotenv
+gunicorn
+
+pytest
+black
+flake8
